@@ -6,7 +6,7 @@
 <br>
 
 - Cursando Análise e Desenvolvimento de Sistemas na SPTech  
-- Estagiário Back-end no C6Bank  
+- Desenvolvedor Back-end JR no C6Bank  
 - Monitor no curso "Programando seu Futuro" no IFSP
 
 ---
